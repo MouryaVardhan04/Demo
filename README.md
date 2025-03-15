@@ -1,2 +1,2 @@
-# Demo Foder
+# Demo Folder
 This is the demo 
